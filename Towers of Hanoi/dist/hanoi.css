@@ -1,0 +1,11 @@
+ul {
+  display: flex;
+  list-style: none;
+}
+
+.tiles {
+  padding: 100px;
+  margin: 30px;
+  border-bottom: 2px solid black;
+  cursor: pointer;
+}
